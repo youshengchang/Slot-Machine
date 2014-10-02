@@ -28,6 +28,7 @@ class Factory {
             }
             slots.append(slotArray)
         }
+        
         return slots
         
     }
