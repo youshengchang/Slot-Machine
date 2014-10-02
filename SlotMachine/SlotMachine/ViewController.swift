@@ -296,7 +296,8 @@ class ViewController: UIViewController {
         
     }
     
-//Helper functions
+//Helper functions for the slot machine
+    
     func removeSlotImageViews(){
         
         if self.secondContainer != nil {

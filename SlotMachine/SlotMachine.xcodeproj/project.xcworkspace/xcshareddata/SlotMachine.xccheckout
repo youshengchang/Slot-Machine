@@ -12,20 +12,24 @@
 	<dict>
 		<key>D5DACE90F988D0AA98518A1E0B119855D06B46D3</key>
 		<string>https://github.com/youshengchang/TigerAndLions.git</string>
+		<key>DFB1E3F704CF36424DD957DD06ABEC24BEDB0483</key>
+		<string>https://github.com/youshengchang/Slot-Machine.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SlotMachine/SlotMachine.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D5DACE90F988D0AA98518A1E0B119855D06B46D3</key>
+		<string>../../../../LionsAndTigers</string>
+		<key>DFB1E3F704CF36424DD957DD06ABEC24BEDB0483</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/youshengchang/TigerAndLions.git</string>
+	<string>https://github.com/youshengchang/Slot-Machine.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D5DACE90F988D0AA98518A1E0B119855D06B46D3</string>
+	<string>DFB1E3F704CF36424DD957DD06ABEC24BEDB0483</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>D5DACE90F988D0AA98518A1E0B119855D06B46D3</string>
 			<key>IDESourceControlWCCName</key>
 			<string>LionsAndTigers</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DFB1E3F704CF36424DD957DD06ABEC24BEDB0483</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Slot-Machine2</string>
 		</dict>
 	</array>
 </dict>
